@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am currently working as a Game Package Manager project manager at NHN.
+
 <!--
 **SangYun-nhn/SangYun-nhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
